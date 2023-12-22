@@ -7,7 +7,7 @@ import {
   Landing,
   NewsLetter,
   SinglePageError,
-} from './pages'
+} from './pages/Index'
 import { loader as cocktailSearchLoader } from './pages/Landing'
 import { loader as singleCocktailLoader } from './pages/Cocktail'
 import { action as newsLetterAction } from './pages/NewsLetter'
